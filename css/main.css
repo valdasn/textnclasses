@@ -1,0 +1,32 @@
+.fontsize.align.color {
+font-size: 40px;
+text-align: center;
+color: rgb(37, 3, 77);
+}
+.fontsize.padding.bold {
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.fontsize.align.padding.shadow {
+    font-size: 30px;
+    text-align: right;
+    padding-right: 30px;
+    text-shadow: blue 2px 2px;
+}
+.fontsize.fontstyle.padding.decor {
+    font-size: 18px;
+    font-style: italic;
+    padding-left: 38px;
+    text-decoration-line: underline;
+}
+.fontsize.fonttype.align { 
+    font-size: 28px;
+    font-family: fantasy;
+    text-align: center;
+}
+.fontsize.linkedfont.align {
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+    text-align: right;
+}
