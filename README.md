@@ -1,2 +1,2 @@
 # textnclasses
-text and classes
+text, classes and reset
